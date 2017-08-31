@@ -1,0 +1,23 @@
+{
+  "name": "Cloze-Constructors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dluu0630/Cloze-Constructors.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dluu0630/Cloze-Constructors/issues"
+  },
+  "homepage": "https://github.com/dluu0630/Cloze-Constructors#readme",
+  "dependencies": {
+    "inquirer": "^3.2.2"
+  }
+}
